@@ -1,52 +1,52 @@
-﻿name;code;pop
-Antigua and Barbuda;ATG;83039
-Argentina;ARG;38747148
-Barbados;BRB;291933
-Bermuda;BMU;64174
-The Bahamas;BHS;323295
-Belize;BLZ;275546
-Bolivia;BOL;9182015
-Brazil;BRA;186830759
-Canada;CAN;32270507
-Chile;CHL;16295102
-Cayman Islands;CYM;45591
-Colombia;COL;4494579
-Costa Rica;CRI;4327228
-Cuba;CUB;11259905
-Dominica;DMA;67827
-Dominican Republic;DOM;9469601
-Ecuador;ECU;13060993
-El Salvador;SLV;6668356
-Falkland Islands;FLK;2975
-Grenada;GRD;105237
-Greenland;GRL;57475
-Guatemala;GTM;12709564
-Guyana;GUY;739472
-Haiti;HTI;9296291
-Honduras;HND;683411
-Jamaica;JAM;2682469
-Montserrat;MSR;5628
-Mexico;MEX;104266392
-Aruba;ABW;102897
-Anguila;AIA;12256
-Suriname;SUR;452468
-Nicaragua;NIC;5462539
-Paraguay;PRY;5904342
-Peru;PER;27274266
-Panama;PAN;3231502
-Puerto Rico;PRI;3946779
-Saint Kitts and Nevis;KNA;49138
-Saint Lucia;LCA;16124
-Trinidad and Tobago;TTO;1323722
-Uruguay;URY;3325727
-Saint Vincent and the Grenadines;VCT;119137
-Venezuela;VEN;26725573
-British Virgin Islands;VGB;22016
-United States Virgin Islands;VIR;111408
-Saint Pierre and Miquelon;SPM;6346
-Turks and Caicos Islands;TCA;24459
-Saint Martin;MAF;0
-Saint Barthélemy;BLM;0
-Sint Maarten;MAF;
-United States of America;USA;299846449
-Curaçao;CUW;162000
+﻿name,code,pop
+Antigua and Barbuda,ATG,83039
+Argentina,ARG,38747148
+Barbados,BRB,291933
+Bermuda,BMU,64174
+The Bahamas,BHS,323295
+Belize,BLZ,275546
+Bolivia,BOL,9182015
+Brazil,BRA,186830759
+Canada,CAN,32270507
+Chile,CHL,16295102
+Cayman Islands,CYM,45591
+Colombia,COL,4494579
+Costa Rica,CRI,4327228
+Cuba,CUB,11259905
+Dominica,DMA,67827
+Dominican Republic,DOM,9469601
+Ecuador,ECU,13060993
+El Salvador,SLV,6668356
+Falkland Islands,FLK,2975
+Grenada,GRD,105237
+Greenland,GRL,57475
+Guatemala,GTM,12709564
+Guyana,GUY,739472
+Haiti,HTI,9296291
+Honduras,HND,683411
+Jamaica,JAM,2682469
+Montserrat,MSR,5628
+Mexico,MEX,104266392
+Aruba,ABW,102897
+Anguila,AIA,12256
+Suriname,SUR,452468
+Nicaragua,NIC,5462539
+Paraguay,PRY,5904342
+Peru,PER,27274266
+Panama,PAN,3231502
+Puerto Rico,PRI,3946779
+Saint Kitts and Nevis,KNA,49138
+Saint Lucia,LCA,16124
+Trinidad and Tobago,TTO,1323722
+Uruguay,URY,3325727
+Saint Vincent and the Grenadines,VCT,119137
+Venezuela,VEN,26725573
+British Virgin Islands,VGB,22016
+United States Virgin Islands,VIR,111408
+Saint Pierre and Miquelon,SPM,6346
+Turks and Caicos Islands,TCA,24459
+Saint Martin,MAF,0
+Saint Barthélemy,BLM,0
+Sint Maarten,MAF,0
+United States of America,USA,299846449
+Curaçao,CUW,162000
